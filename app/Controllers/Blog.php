@@ -24,6 +24,8 @@ class Blog extends Controller {
         return $parser->setData($data)->render('blog');
     }
 
+    // this
+
     // public function view($page = 'home')
     // {
     //     // ...
